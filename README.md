@@ -1,6 +1,6 @@
 # Tic Tac Toe
 
-Un jeu de Tic Tac Toe en Python où vous jouez contre une IA.
+Un jeu de Tic Tac Toe en Python où vous jouez contre une IA compétitive.
 
 ## Installation
 
